@@ -8,6 +8,7 @@ I'm a **Computer Engineering Student** and **Junior Researcher** at [IPLeiria](h
 
 🎓 **Computer Engineering Student**  
 🔬 **Junior Researcher** focused on **AI**
+
 🧠 Deeply interested in **Artificial Intelligence**, **Cognitive Science**, and **Artificial Consciousness**
 
 ---
